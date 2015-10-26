@@ -7,3 +7,7 @@ My Ubuntu Shell Scripts
 **autoinstall.sh**: Auto install my packages.
 
 **update.sh**: Check for update Ubuntu.
+
+**configs/nginx**: folder contains Nginx config files
+
+**configs/apache**: folder contains Apache config files
