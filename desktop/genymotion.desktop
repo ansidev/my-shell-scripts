@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Genymotion
+Comment=Genymotion
+Exec=/opt/genymotion/genymotion
+Icon=/opt/genymotion/icons/icon.png
+Terminal=false
+#Type: Application, Link, Directory
+Type=Application
+Categories=Development
+#Encoding=UTF-8
