@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Komodo IDE 9
+GenericName=IDE
+Comment=Code. Debug. Edit. Share. Let Komodo sweat the details.
+Exec=/opt/KomodoIDE/lib/mozilla/komodo %F
+Icon=/opt/KomodoIDE/share/icons/komodo48.png
+Terminal=false
+Type=Application
+MimeType=text/plain;
+Categories=ActiveState;Application;Development;Editor;Utility;TextEditor;Debugger;IDE;

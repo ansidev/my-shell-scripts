@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=IntelliJ IDEA
+Icon=/opt/idea/bin/idea.png
+Exec=/opt/idea/bin/idea.sh
+StartupNotify=false
+StartupWMClass=jetbrains-idea
+OnlyShowIn=Unity;
+X-UnityGenerated=true

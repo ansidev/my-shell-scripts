@@ -1,11 +1,12 @@
 [Desktop Entry]
-Name=Android Studio
-Comment=Android Studio
-Exec=/opt/android-studio/bin/studio.sh
-Icon=/opt/android-studio/bin/studio.png
+Name=Valentina Studio
+Comment=Valentina Studio
+Exec=/opt/VStudio/vstudio
+Icon=/opt/VStudio/Resources/vstudio.png
 Terminal=false
 MimeType=application/iml
 #Type: Application, Link, Directory
 Type=Application
 Categories=Developer
 Encoding=UTF-8
+

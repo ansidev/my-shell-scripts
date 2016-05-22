@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Spring Tool Suite
+Icon=/opt/sts-bundle/sts-3.7.3.RELEASE/icon.xpm
+Exec=env SWT_GTK3=0 /opt/sts-bundle/sts-3.7.3.RELEASE/STS
+Comment=Develop with pleasure!
+Categories=Development;IDE;
+Terminal=false

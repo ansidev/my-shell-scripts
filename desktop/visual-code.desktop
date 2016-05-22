@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Visual Code
+Icon=/opt/VSCode/resources/app/resources/linux/code.png
+Path=/home/ansidev
+Exec=/opt/VSCode/Code
+StartupNotify=false
+OnlyShowIn=Unity;
+X-UnityGenerated=true
