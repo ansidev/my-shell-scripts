@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=XMind
+Icon=/opt/xmind/XMind_amd64/configuration/org.eclipse.osgi/983/0/.cp/icons/xmind.64.png
+Exec=bash -c 'cd /opt/xmind/XMind_amd64 && /opt/xmind/XMind_amd64/XMind'
+Comment=The Most Popular Mind Mapping Tool on the Planet
+Categories=Development;IDE;
+Terminal=false
+Name[en_US]=XMind

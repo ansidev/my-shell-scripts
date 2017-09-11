@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=WebStorm
+Icon=/opt/WebStorm/bin/webstorm.svg
+Exec=/opt/WebStorm/bin/webstorm.sh
+StartupNotify=false
+StartupWMClass=jetbrains-webstorm
+OnlyShowIn=Unity;
+X-UnityGenerated=true

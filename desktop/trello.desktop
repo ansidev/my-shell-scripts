@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Trello
+Comment=A free task tracking and management
+Exec=/opt/trello/Trello
+Icon=/opt/trello/resources/app/static/Icon.png
+Terminal=false
+#Type: Application, Link, Directory
+Type=Application
+Categories=Internet
+Encoding=UTF-8

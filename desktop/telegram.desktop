@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Telegram
+Comment=Telegram
+Exec=/opt/Telegram/Telegram
+#Icon=/opt/Franz/resources/app.asar.unpacked/assets/franz.png
+Terminal=false
+#Type: Application, Link, Directory
+Type=Application
+Categories=Internet
+Encoding=UTF-8

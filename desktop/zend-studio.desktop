@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Zend Studio
+Icon=/opt/ZendStudio/icon.xpm
+Exec=/opt/ZendStudio/ZendStudio
+Comment=Develop with pleasure!
+Categories=Development;IDE;
+Terminal=false

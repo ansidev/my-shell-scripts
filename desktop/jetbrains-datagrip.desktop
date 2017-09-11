@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=IntelliJ DataGrip
+Icon=/opt/datagrip/bin/datagrip.png
+Exec=/opt/datagrip/bin/datagrip.sh
+StartupNotify=false
+StartupWMClass=jetbrains-datagrip
+OnlyShowIn=Unity;
+X-UnityGenerated=true
